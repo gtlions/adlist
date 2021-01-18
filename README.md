@@ -13,3 +13,9 @@ ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblo
 
 https://anti-ad.net/easylist.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+
+223.6.6.6
+223.5.5.5
+https://dns.alidns.com/dns-query
+tls://dns.google
